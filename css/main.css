@@ -65,19 +65,28 @@ footer {
 
   #column-1 {
     background-color: #4d4dff;
+    
   }
 
   #column-2 {
     background-color:  #ff0000;
+    
   }
 
   #column-3 {
     background-color:  #00e600;
+    
   }
 
   footer {
     background-color:  #a6a6a6;
   }
+  .full-col {
+    width: 100%;
+  }
+  .half-col {
+    width: 50%;
+  
   
 }
 
@@ -90,18 +99,22 @@ footer {
 
   #column-1 {
     background-color: #ccccff;
+    width: 33.3%
   }
 
   #column-2 {
     background-color: #ff8080;
+    
   }
 
   #column-3 {
     background-color:  #80ff80;
+   
   }
 
   footer {
     background-color: #808080;
   }
-   
+  .col-3 {
+    width: 33.3%;
 }
